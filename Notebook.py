@@ -20,7 +20,13 @@
 import numpy as np
 
 # %%
+<<<<<<< HEAD
 vaina =np.arange(0,10)
 
 # %%
 print(vaina.mean())
+=======
+10*2
+
+# %%
+>>>>>>> 80a6ce03ba110af3f5df92b99e295018aacc0b9b
