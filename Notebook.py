@@ -17,9 +17,10 @@
 # # This is a test
 
 # %%
-5+5
+import numpy as np
 
 # %%
-10*2
+vaina =np.arange(0,10)
 
 # %%
+print(vaina.mean())
